@@ -49,6 +49,8 @@ That's similar to how I want the screen mode change to work and then on top of t
 
 I made a really simple cardboard mockup to visualise the idea. I think I'll end up making another more detailed one to help with prototyping and CAD and just visualise how all the parts fit together. I will add a photo of this design later.
 
+<img width="400" height="225" alt="IMG_4900" src="https://github.com/user-attachments/assets/f8de4968-5882-4ad9-bd4f-8a4e7634bb7b" />
+
 `Prototyping: +1 hour`
 
 ***+1 hour 30 mins***
