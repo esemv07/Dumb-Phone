@@ -1,3 +1,11 @@
+---
+title: "Dumb Phone"
+github: "https://github.com/esemv07/Dumb-Phone"
+description: "An all in one dumb phone device to remove distractions"
+created_at: "2026-10-15"
+total_time: "1.5h"
+---
+
 # Journal
 
 This is the story of my process of making this project :)
