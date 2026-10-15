@@ -3,18 +3,18 @@ title: "Dumb Phone"
 github: "https://github.com/esemv07/Dumb-Phone"
 description: "An all in one dumb phone device to remove distractions"
 created_at: "2026-10-15"
-total_time: "1.5h"
+total_time: "2h"
 ---
 
 # Journal
 
 This is the story of my process of making this project :)
 
-### Total Time so Far: 1 hour 30 mins
+### Total Time so Far: 2 hours
 
 
 ## 15th October 2026
-`Prototyping` `Documentation`
+`Prototyping` `Documentation` `Research`
 
 This is the beginning of my journal! I am going to start by setting out the goals and intentions of this project, and just a brain-dump of my thoughts so far.
 
@@ -53,6 +53,41 @@ I made a really simple cardboard mockup to visualise the idea. I think I'll end 
 
 ***+1 hour 30 mins***
 
-### Time Spent on This Day: 1 hour 30 mins
+I'm doing some research for inspiration for what I want the overall design to look like and the case so I'll dump the images here:
 
-`Prototyping 1 hour` `Documentation: 30 mins`
+<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/483cc05f-21bd-46c2-9249-efc6b8c04250" />
+
+I really like the chamfered edges and angles on this design.
+
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1a1f5b09-574f-4d9d-bc52-ead2620caa5b" />
+
+[This](https://www.reddit.com/r/blender/comments/142gwii/cyberdeck/) is particularly awesome and something I would like to emulate. The shaping is super nice and the side handles are a great touch. I'm not exactly sure how the sliding mechanism works in reality as it looks to only work as an animation so this is something I would have to consider.
+
+<img width="537" height="400" alt="image" src="https://github.com/user-attachments/assets/2c836b20-68dd-478c-9dfd-480d4da84617" />
+
+I just love this vibe, not that it practically looks anything like what mine would with all the features, but the vibe is awesome.
+
+<img width="427" height="284" alt="image" src="https://github.com/user-attachments/assets/04b92a74-7b7c-4a27-b380-4469baefaf5c" />
+
+This design is super cool and I'll have to have a look at how the sliding mechanism works. I've watched the [video](https://www.youtube.com/watch?v=gIWp_F9PPzI) before but I want to take a closer look this time so I can understand the mechanism. I notice I like a lot of the designs with chamfers rather than fillets so that's definitely something I'll have to go for.
+
+<img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/a71da49f-69a7-4461-aa81-2147d4aaf6a0" />
+
+I really like the handles on this design, I might add handles to mine, maybe for practicality maybe for aesthetics. The speakers are also quite an interesting touch
+
+<img width="319" height="240" alt="image" src="https://github.com/user-attachments/assets/e7632d73-60cd-412d-b4d2-846701c0bc9e" />
+
+This is a pretty interesting design too although I'm not sure whether it would have stability issues.
+
+<img width="236" height="348" alt="image" src="https://github.com/user-attachments/assets/8c6bc6b4-5925-42a8-88af-0c9994d23cc4" />
+
+I really like the shape of this which I'm sure is also comfortable to hold.
+
+`Research: +30 mins`
+
+***+30 mins***
+
+### Time Spent on This Day: 2 hours
+
+`Prototyping 1 hour` `Documentation: 30 mins` `Research: 30 mins`
