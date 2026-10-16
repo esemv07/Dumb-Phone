@@ -3,14 +3,14 @@ title: "Dumb Phone"
 github: "https://github.com/esemv07/Dumb-Phone"
 description: "An all in one dumb phone device to remove distractions"
 created_at: "2026-10-15"
-total_time: "2h"
+total_time: "2.5h"
 ---
 
 # Journal
 
 This is the story of my process of making this project :)
 
-### Total Time so Far: 2 hours
+### Total Time so Far: 2 hours 30 mins
 
 
 ## 15th October 2026
@@ -93,3 +93,21 @@ I really like the shape of this which I'm sure is also comfortable to hold.
 ### Time Spent on This Day: 2 hours
 
 `Prototyping 1 hour` `Documentation: 30 mins` `Research: 30 mins`
+
+<br><br>
+## 16th October 2026
+`Research`
+
+I was looking at some displays this morning and am trying to figure out how I can best conserve size. I would prefer a display that doesn't require a controller/driver board which I think means I have to go with SPI (not 100% sure if this is correct, I'm still doing more research).
+
+I found [this](https://www.youtube.com/watch?v=7FxN6tjMZeU) video which I am going to refer to along the process to figure out which STM32 to go with. I first need to figure out any of the basic components such as display, speakers, camera module, etc. so I can figure out the specs I need.
+
+`Research: +30 mins`
+
+***+30 mins***
+
+### Time Spent on This Day: 30 mins
+
+`Research: 30 mins`
+
+<br><br>
