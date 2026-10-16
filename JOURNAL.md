@@ -14,8 +14,8 @@ This is the story of my process of making this project :)
 
 
 
-
-## 15th October 2026: Finding Inspiration
+## Finding Inspiration
+### 15th October 2026
 `Prototyping` `Documentation` `Research`
 
 This is the beginning of my journal! I am going to start by setting out the goals and intentions of this project, and just a brain-dump of my thoughts so far.
@@ -97,7 +97,8 @@ I really like the shape of this which I'm sure is also comfortable to hold.
 `Prototyping 1 hour` `Documentation: 30 mins` `Research: 30 mins`
 
 <br><br>
-## 16th October 2026: A Little Research
+## A Little Research
+### 16th October 2026
 `Research`
 
 I was looking at some displays this morning and am trying to figure out how I can best conserve size. I would prefer a display that doesn't require a controller/driver board which I think means I have to go with SPI (not 100% sure if this is correct, I'm still doing more research).
@@ -113,7 +114,8 @@ I found [this](https://www.youtube.com/watch?v=7FxN6tjMZeU) video which I am goi
 `Research: 30 mins`
 
 <br><br>
-## 17th October 2026: Finding a Display
+## Finding a Display
+### 17th October 2026
 `Research`
 
 I found [this](https://www.aliexpress.com/item/1005008749154854.html) display which doesn't seem the need a driver as long as I pick an STM32 with integrated MIPI DSI hardware. I can add that to the list of parameters to narrow down which STM32 I can get. So far I think that this display is a good option, and unless something better comes up or I find a reason not to use it, I'll go with it.
