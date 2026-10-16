@@ -121,9 +121,17 @@ I found [this](https://www.aliexpress.com/item/1005008749154854.html) display wh
 
 Next I am going to look at a camera module which will work with an STM32 and also a speaker. I think I will end up going for bluetooth for the keyboard but I am still yet to do more research on whether this will work without the need for reconnection upon startup.
 
-`Research: +30 mins`
+`Research: +15 mins`
 
-***+30 mins***
+***+15 mins***
+
+Ok so I'm looking at cameras and immediately [this](https://www.aliexpress.com/item/1005007480635043.html) one caught my eye. I literally haven't looked at any others yet so I don't know whether I'll go with it yet. But there's a lot of different versions and I don't understand cameras so I'm going to have to research what the different versions mean and which to go with for my project.
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/8e178a62-b7cc-448b-b514-52170124b38d" />
+
+`Research: +15 mins`
+
+***+15 mins***
 
 #### Time Spent on This Day: 30 mins
 
