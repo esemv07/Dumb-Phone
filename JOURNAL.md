@@ -3,14 +3,14 @@ title: "Dumb Phone"
 github: "https://github.com/esemv07/Dumb-Phone"
 description: "An all in one dumb phone device to remove distractions"
 created_at: "2026-10-15"
-total_time: "4h"
+total_time: "4.5h"
 ---
 
 # Journal
 
 This is the story of my process of making this project :)
 
-***Total Time so Far: 4 hours***
+***Total Time so Far: 4 hours 30 mins***
 
 
 
@@ -156,8 +156,18 @@ I've made a basic shape for the base layer of the case as well as the bottom lay
 
 ***+45 mins***
 
-#### Time Spent on This Day: 1 hour 30 mins
+I've found some more parts: a [segment display](https://www.aliexpress.com/item/1005006855177010.html) for displaying battery levels, a [joystick](https://www.aliexpress.com/item/1005006760485880.html) for the game controller, and some [tactile buttons](https://www.aliexpress.com/item/32815969627.html) for the game controller and the music player buttons.
 
-`Research: 45 mins` `CAD: 45 mins`
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/7cb73573-18a3-4cf3-8154-2e7cfeb3d087" />
+
+I think this is all the main parts (although I might be forgetting something) excluding any battery and power system. Next I will calculate what battery I will need and how I will handle power, I think I want USB-C charging. I will then hopefully be able to figure out exactly which STM32 I need and begin making the PCB with all this information.
+
+`Research: +30 mins`
+
+***+30 mins***
+
+#### Time Spent on This Day: 2 hours
+
+`Research: 1 hour 15 mins` `CAD: 45 mins`
 
 <br><br>
