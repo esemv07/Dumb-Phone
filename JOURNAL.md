@@ -3,14 +3,14 @@ title: "Dumb Phone"
 github: "https://github.com/esemv07/Dumb-Phone"
 description: "An all in one dumb phone device to remove distractions"
 created_at: "2026-10-15"
-total_time: "3h"
+total_time: "3.25h"
 ---
 
 # Journal
 
 This is the story of my process of making this project :)
 
-***Total Time so Far: 3 hours***
+***Total Time so Far: 3 hours 15 mins***
 
 
 
@@ -133,8 +133,20 @@ Ok so I'm looking at cameras and immediately [this](https://www.aliexpress.com/i
 
 ***+15 mins***
 
-#### Time Spent on This Day: 30 mins
+After a bit of research I have found out the iPhone 0.5 camera has 120 degrees of FOV. Unfortunately the 120 degree one isn't available but the 130 degree one is so I think I'll go with that one unless the 120 degree one comes back in stock before I am up to buying.
 
-`Research: 30 mins`
+For the keyboard I want it to be quite small so instead of regular keyboard switches I will use soft tactile switches that will not be clicky and build my own keyboard with that. [These](https://www.aliexpress.com/item/1005012357933716.html) are pretty much what I'm looking for so I'll keep these in mind.
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/91935f23-b9fa-48d9-9c23-0777fb0ef705" />
+
+I'm going to give modelling the case a try just for a first draft so I can see how everything would fit together. I am using OnShape as Fusion decided not to work anymore on my laptop :)
+
+`Research: +15 mins`
+
+***+15 mins***
+
+#### Time Spent on This Day: 45 mins
+
+`Research: 45 mins`
 
 <br><br>
