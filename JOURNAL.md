@@ -112,7 +112,7 @@ I found [this](https://www.youtube.com/watch?v=7FxN6tjMZeU) video which I am goi
 `Research: 30 mins`
 
 <br><br>
-## 17th October 2026: Finding a Display
+## 17th October 2026: Finding a Display, Camera and Beginning the CAD
 `Research` `CAD`
 
 I found [this](https://www.aliexpress.com/item/1005008749154854.html) display which doesn't seem the need a driver as long as I pick an STM32 with integrated MIPI DSI hardware. I can add that to the list of parameters to narrow down which STM32 I can get. So far I think that this display is a good option, and unless something better comes up or I find a reason not to use it, I'll go with it.
