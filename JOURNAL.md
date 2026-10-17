@@ -3,14 +3,14 @@ title: "Dumb Phone"
 github: "https://github.com/esemv07/Dumb-Phone"
 description: "An all in one dumb phone device to remove distractions"
 created_at: "2026-10-15"
-total_time: "3.25h"
+total_time: "4h"
 ---
 
 # Journal
 
 This is the story of my process of making this project :)
 
-***Total Time so Far: 3 hours 15 mins***
+***Total Time so Far: 4 hours***
 
 
 
@@ -113,7 +113,7 @@ I found [this](https://www.youtube.com/watch?v=7FxN6tjMZeU) video which I am goi
 
 <br><br>
 ## 17th October 2026: Finding a Display
-`Research`
+`Research` `CAD`
 
 I found [this](https://www.aliexpress.com/item/1005008749154854.html) display which doesn't seem the need a driver as long as I pick an STM32 with integrated MIPI DSI hardware. I can add that to the list of parameters to narrow down which STM32 I can get. So far I think that this display is a good option, and unless something better comes up or I find a reason not to use it, I'll go with it.
 
@@ -145,8 +145,19 @@ I'm going to give modelling the case a try just for a first draft so I can see h
 
 ***+15 mins***
 
-#### Time Spent on This Day: 45 mins
+I've made a basic shape for the base layer of the case as well as the bottom layer of the keyboard layer. I'm pretty happy with how the geometric chamfer shapes are looking and I also added a hinge to the bottom keyboard part.
 
-`Research: 45 mins`
+
+<img width="426" height="250" alt="Screenshot 2026-10-17 at 7 16 16 pm" src="https://github.com/user-attachments/assets/d2a5fd40-6cb5-46f1-9247-b11fc7d00b02" />
+
+<img width="477" height="230" alt="Screenshot 2026-10-17 at 7 17 05 pm" src="https://github.com/user-attachments/assets/471cc27c-19d8-4c57-93e8-26bd43606c24" />
+
+`CAD: +45 mins`
+
+***+45 mins***
+
+#### Time Spent on This Day: 1 hour 30 mins
+
+`Research: 45 mins` `CAD: 45 mins`
 
 <br><br>
