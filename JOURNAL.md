@@ -171,3 +171,26 @@ I think this is all the main parts (although I might be forgetting something) ex
 `Research: 1 hour 15 mins` `CAD: 45 mins`
 
 <br><br>
+## 19th October 2026: Finding Speakers and Continuing CAD
+`Research` `CAD`
+
+I was right, I did forget something: speakers. I have found a [headphone jack](https://www.aliexpress.com/item/1005005562777837.html) module and some [small speakers](https://www.aliexpress.com/item/1005006334311884.html) that should work perfectly with this.
+
+`Research: +15 mins`
+
+***+15 mins***
+
+I refactored the hinges on my case and I think I like them a lot better now!
+
+<img width="402" height="209" alt="Screenshot 2026-10-20 at 6 51 49 am" src="https://github.com/user-attachments/assets/5defee77-9e9c-48d6-be7e-0ee67f930728" />
+<br>
+<img width="460" height="318" alt="Screenshot 2026-10-20 at 6 52 21 am" src="https://github.com/user-attachments/assets/0d7fd4d4-6287-453c-a29c-8c8e358f9c2d" />
+<img width="448" height="240" alt="Screenshot 2026-10-20 at 6 52 50 am" src="https://github.com/user-attachments/assets/1701311a-6b12-4a68-b6b7-90f034865da2" />
+
+`CAD: +45 mins`
+
+***+45 mins***
+
+#### Time Spent on This Day: 1 hour
+
+`Research: 15 mins` `CAD: 45 mins`
