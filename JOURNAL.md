@@ -194,3 +194,34 @@ I refactored the hinges on my case and I think I like them a lot better now!
 #### Time Spent on This Day: 1 hour
 
 `Research: 15 mins` `CAD: 45 mins`
+<br><br>
+## 20th October 2026: Researching Screen Connections
+`Research` `CAD`
+
+Ok so I think it is going to be too hard to have a screen without a driver that also connects by Bluetooth to the keyboard and STM32. Instead I am going to make the enclosure around fitting the driver board while still making sure to conserve space as best as possible.
+
+I was thinking that having the screen connect by cable would be annoying as it would hinder the sliding mechanism but then I remembered [this](https://www.techeblog.com/jankbu-sliding-screen-modular-cyberdeck/) Cyberdeck that I previously saw. It uses a CNC type cable holder so that the screen can slide. I think I will try to emulate this but on the edge side of the screen so that it can also tilt upwards once it reaches the end of the slide.
+
+<img width="360" height="225" alt="Screenshot 2026-10-20 at 7 48 15 am" src="https://github.com/user-attachments/assets/cfbd7863-2cb8-41b6-836d-0450421ddaf6" />
+
+This greatly widens my options for what screen to go with so I think I'll change what screen I'm going with for something easier and more well documented. It also reduces the parameters for my STM32 (I think) as I don't think I'll need MIPI capabilities anymore.
+
+`Research: +45 mins`
+
+***+45 mins***
+
+I've made some updates to the hinges in my CAD model and I really like the way they're looking now. I also added a bottom panel to hold the PCB that will be at the bottom. I plan to put the main brains there and then have the other parts connected by ribbon cables as peripherals.
+
+<img width="484" height="326" alt="Screenshot 2026-10-20 at 6 17 45 pm" src="https://github.com/user-attachments/assets/64c11707-c5f4-4ac8-b618-81c0ff308115" />
+<img width="516" height="309" alt="Screenshot 2026-10-20 at 6 18 03 pm" src="https://github.com/user-attachments/assets/cb69dc09-7912-4fd0-9ebb-81890f2f998f" />
+
+Next I will try to add the gap for the CNC sliding mechanism and see how I can model the sliding mechanism too.
+
+`CAD: +45 mins`
+
+***+45 mins***
+
+#### Time Spent on This Day: 1 hour 30 mins
+
+`Research: 45 mins` `CAD: 45 mins`
+<br><br>
