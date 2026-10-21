@@ -225,3 +225,24 @@ Next I will try to add the gap for the CNC sliding mechanism and see how I can m
 
 `Research: 45 mins` `CAD: 45 mins`
 <br><br>
+## 22nd October 2026: Making Cable Chains
+`CAD`
+
+I have made some cable chains similar to the CNC ones I researched and I think they will work great.
+
+<img width="315" height="266" alt="Screenshot 2026-10-22 at 8 20 26 am" src="https://github.com/user-attachments/assets/f1f22449-3061-4404-a66d-c179ce6b511b" />
+
+<img width="466" height="289" alt="Screenshot 2026-10-22 at 8 19 53 am" src="https://github.com/user-attachments/assets/8228f21f-9101-4eb0-84de-6aea43e8ed5b" />
+
+I added some clearance that will hopefully be just enough that they slot together and stay together without needing any screws to slot in together.
+
+Next I am going to try to model the rails for the screen slide so that the screen can move and be connected to the cable chain.
+
+`CAD: +1 hour`
+
+***+1 hour***
+
+#### Time Spent on This Day: 1 hour
+
+`CAD: 1 hour`
+<br><br>
