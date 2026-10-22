@@ -3,14 +3,14 @@ title: "Dumb Phone"
 github: "https://github.com/esemv07/Dumb-Phone"
 description: "An all in one dumb phone device to remove distractions"
 created_at: "2026-10-15"
-total_time: "8h"
+total_time: "9.5h"
 ---
 
 # Journal
 
 This is the story of my process of making this project :)
 
-***Total Time so Far: 8 hours***
+***Total Time so Far: 9 hours 30 mins***
 
 
 
@@ -226,7 +226,7 @@ Next I will try to add the gap for the CNC sliding mechanism and see how I can m
 `Research: 45 mins` `CAD: 45 mins`
 <br><br>
 ## 22nd October 2026: Making Cable Chains
-`CAD`
+`CAD` `Research`
 
 I have made some cable chains similar to the CNC ones I researched and I think they will work great.
 
@@ -242,7 +242,20 @@ Next I am going to try to model the rails for the screen slide so that the scree
 
 ***+1 hour***
 
-#### Time Spent on This Day: 1 hour
+I've added the keyboard enclosure. I used the blackberry keyboard as a reference for the dimensions of the holes for the plate. I then also tried to add the sliding gap but I only added it on one side so far. I want to put a slot at the end so that when it is open then the screen can be held at a 'laptop-type' angle.
 
-`CAD: 1 hour`
+<img width="402" height="269" alt="Screenshot 2026-10-22 at 11 55 43 am" src="https://github.com/user-attachments/assets/cfe6cf03-5a4f-4023-a361-de6caa8abad5" />
+<img width="815" height="657" alt="Screenshot 2026-10-22 at 11 57 12 am" src="https://github.com/user-attachments/assets/fbddd35e-7e04-4ecb-9b3b-8e16e1f993f4" />
+
+I think [this](https://www.aliexpress.com/item/1005012748404459.html) will be an ok screen to go with, or at least it's the type I think I'll go for.
+
+I think the ribbon cable will be too wide to fit in the cable chain and all the displays I could find had a similar width. So instead I will put the driver in the top of the case and then have the HDMI cable that goes in the cable chain.
+
+`CAD: +1 hour` `Research: +30 mins`
+
+***+1 hour 30 mins***
+
+#### Time Spent on This Day: 2 hours 30 mins
+
+`CAD: 2 hour` `Research: 30 mins`
 <br><br>
