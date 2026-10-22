@@ -3,14 +3,14 @@ title: "Dumb Phone"
 github: "https://github.com/esemv07/Dumb-Phone"
 description: "An all in one dumb phone device to remove distractions"
 created_at: "2026-10-15"
-total_time: "9.5h"
+total_time: "10h"
 ---
 
 # Journal
 
 This is the story of my process of making this project :)
 
-***Total Time so Far: 9 hours 30 mins***
+***Total Time so Far: 10 hours***
 
 
 
@@ -245,7 +245,7 @@ Next I am going to try to model the rails for the screen slide so that the scree
 I've added the keyboard enclosure. I used the blackberry keyboard as a reference for the dimensions of the holes for the plate. I then also tried to add the sliding gap but I only added it on one side so far. I want to put a slot at the end so that when it is open then the screen can be held at a 'laptop-type' angle.
 
 <img width="402" height="269" alt="Screenshot 2026-10-22 at 11 55 43 am" src="https://github.com/user-attachments/assets/cfe6cf03-5a4f-4023-a361-de6caa8abad5" />
-<img width="815" height="657" alt="Screenshot 2026-10-22 at 11 57 12 am" src="https://github.com/user-attachments/assets/fbddd35e-7e04-4ecb-9b3b-8e16e1f993f4" />
+<img width="408" height="329" alt="Screenshot 2026-10-22 at 11 57 12 am" src="https://github.com/user-attachments/assets/fbddd35e-7e04-4ecb-9b3b-8e16e1f993f4" />
 
 I think [this](https://www.aliexpress.com/item/1005012748404459.html) will be an ok screen to go with, or at least it's the type I think I'll go for.
 
@@ -255,7 +255,15 @@ I think the ribbon cable will be too wide to fit in the cable chain and all the 
 
 ***+1 hour 30 mins***
 
-#### Time Spent on This Day: 2 hours 30 mins
+I added the slider rails to the other side so that the screen can slide fully. I will try to make the screen enclosure next that will connect into the slider rails.
 
-`CAD: 2 hour` `Research: 30 mins`
+<img width="428" height="280" alt="Screenshot 2026-10-22 at 5 38 08 pm" src="https://github.com/user-attachments/assets/e285f201-642e-4523-bd9a-31c688d8835f" />
+
+`CAD: +30 mins`
+
+***+30 mins***
+
+#### Time Spent on This Day: 3 hours
+
+`CAD: 2 hours 30 mins` `Research: 30 mins`
 <br><br>
