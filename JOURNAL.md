@@ -3,14 +3,14 @@ title: "Dumb Phone"
 github: "https://github.com/esemv07/Dumb-Phone"
 description: "An all in one dumb phone device to remove distractions"
 created_at: "2026-10-15"
-total_time: "10h"
+total_time: "11h"
 ---
 
 # Journal
 
 This is the story of my process of making this project :)
 
-***Total Time so Far: 10 hours***
+***Total Time so Far: 11 hours***
 
 
 
@@ -266,4 +266,24 @@ I added the slider rails to the other side so that the screen can slide fully. I
 #### Time Spent on This Day: 3 hours
 
 `CAD: 2 hours 30 mins` `Research: 30 mins`
+<br><br>
+## 24th October 2026: Making the Screen Enclosure
+`CAD`
+
+I have made the screen enclosure that will be able to slide on the edge rails from a flat position to a 'laptop' position. This will hopefully work and allow the screen to stay in the laptop position once it slots into it. I may have to use magnets to assist with this but I'm not sure and will just have to see once I print it and how it handles the weight of the screen. I am not sure whether the screen will fall out of the top as I've left a gap for it to slot into the 'laptop' position, but again this is something I'll have to test and iterate once I actually get to printing.
+
+<img width="407" height="295" alt="Screenshot 2026-10-24 at 3 58 12 pm" src="https://github.com/user-attachments/assets/3ee91e68-ce45-47b8-a86f-a69f0125b32a" />
+<img width="400" height="344" alt="Screenshot 2026-10-24 at 3 59 34 pm" src="https://github.com/user-attachments/assets/96950f5e-7c4e-4944-96b1-efe8fe6a5ed3" />
+
+I think that is the extent of the CAD I can do so far minus modelling the buttons for the keyboard but I'd rather not do that right now.
+
+Other than that I am going to try to figure out which STM32 suits this application by looking at all the parameters I have and all the parts I plan to use. I likely won't start the actual Schematic and PCB until my exams are done so it may be a little while.
+
+`CAD: +1 hour`
+
+***+1 hour***
+
+#### Time Spent on This Day: 1 hour
+
+`CAD: 1 hour`
 <br><br>
