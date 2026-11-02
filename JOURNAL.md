@@ -3,14 +3,14 @@ title: "Dumb Phone"
 github: "https://github.com/esemv07/Dumb-Phone"
 description: "An all in one dumb phone device to remove distractions"
 created_at: "2026-10-15"
-total_time: "11h"
+total_time: "13h"
 ---
 
 # Journal
 
 This is the story of my process of making this project :)
 
-***Total Time so Far: 11 hours***
+***Total Time so Far: 13 hours***
 
 
 
@@ -286,4 +286,25 @@ Other than that I am going to try to figure out which STM32 suits this applicati
 #### Time Spent on This Day: 1 hour
 
 `CAD: 1 hour`
+<br><br>
+## 2nd November 2026: Printing and Revisions to the Hinged Parts
+`CAD`
+
+Over the last couple of days I have printed the hinged parts of the case to see how they work.
+
+The first change I made was narrowing the case by 15mm as I found it was slightly awkward to hold in my hand as the phone version and there is space to narrow it while still fitting the screen and everything. 
+
+<img width="385" height="330" alt="Screenshot 2026-11-02 at 7 02 07 pm" src="https://github.com/user-attachments/assets/103b62e2-4088-4ee3-ae55-c221fe98bcbe" />
+
+I then reprinted it with the smaller size but I snapped the hinge immediately. This wasn't because I'm just silly it was actually because the hinge didn't have enough tolerance and the top case part touches the bottom when its printed so fuses together. So I've made some slight revisions and its currently printing again.
+
+Hopefully this one turns out better and doesn't break straight away :/.
+
+`CAD: +2 hours`
+
+***+2 hours***
+
+#### Time Spent on This Day: 2 hours
+
+`CAD: 2 hours`
 <br><br>
